@@ -22,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -50,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/simpleframework/core" />
@@ -244,6 +248,10 @@
       <screen x="1920" y="0" width="2560" height="1392" />
     </state>
     <state x="2955" y="398" key="#xdebugger.evaluate/0.0.1536.816/1920.0.2560.1392@1920.0.2560.1392" timestamp="1651752358851" />
+    <state x="372" y="2" key="CommitChangelistDialog2" timestamp="1652062580688">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.816/1920.0.2560.1392@0.0.1536.816" timestamp="1652062580688" />
     <state x="2835" y="287" key="FileChooserDialogImpl" timestamp="1651750509261">
       <screen x="1920" y="0" width="2560" height="1392" />
     </state>
